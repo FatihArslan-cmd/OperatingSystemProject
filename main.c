@@ -3,7 +3,7 @@
 #include <string.h>
 #include "process.h"  // Includes header file for process-related functions and structures
 #include "queue.h"    // Includes header file for queue-related functions and structures
-#include "utils.h"    // Includes header file for utility functions
+#include "utils.h"    // Includes header file for utility functions.
 
 #define RAM_SIZE 2048  // Defines the size of the RAM
 
